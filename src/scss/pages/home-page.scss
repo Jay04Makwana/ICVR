@@ -4072,7 +4072,7 @@ input:focus::placeholder {
 }
 
 .intro-home-section {
-  background-size: cover !important;
+  background-size: cover ;
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-image: url("../images/home-intro-sm.webp");
@@ -4081,7 +4081,7 @@ input:focus::placeholder {
 }
 
 .intro-home-section__active {
-  background-size: 125%;
+  background-size: 125% !important;
 }
 
 .intro-home-section.videoStarted {
